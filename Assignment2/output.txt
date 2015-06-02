@@ -1,0 +1,20 @@
+manasi@ubuntu:~/l3cube$ python birthday_paradox.py 
+Enter a range of values (N1, N2) to calculate the probablity for N1 to N2 number of persons
+5 20
+5 people: 0.0310 probability of shared birthday (exact: 0.0271)
+6 people: 0.0340 probability of shared birthday (exact: 0.0405)
+7 people: 0.0560 probability of shared birthday (exact: 0.0562)
+8 people: 0.0620 probability of shared birthday (exact: 0.0743)
+9 people: 0.0810 probability of shared birthday (exact: 0.0946)
+10 people: 0.1170 probability of shared birthday (exact: 0.1169)
+11 people: 0.1470 probability of shared birthday (exact: 0.1411)
+12 people: 0.1850 probability of shared birthday (exact: 0.1670)
+13 people: 0.1970 probability of shared birthday (exact: 0.1944)
+14 people: 0.2160 probability of shared birthday (exact: 0.2231)
+15 people: 0.2440 probability of shared birthday (exact: 0.2529)
+16 people: 0.2760 probability of shared birthday (exact: 0.2836)
+17 people: 0.3290 probability of shared birthday (exact: 0.3150)
+18 people: 0.3290 probability of shared birthday (exact: 0.3469)
+19 people: 0.3930 probability of shared birthday (exact: 0.3791)
+20 people: 0.3890 probability of shared birthday (exact: 0.4114)
+
