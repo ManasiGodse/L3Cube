@@ -1,0 +1,4 @@
+manasi@ubuntu:~/l3cube$ python duplicate_file.py /home/manasi/test
+Duplicate file found:  test123.txt
+Do you want to remove this file? Press 11
+file deleted successfully
