@@ -1,0 +1,35 @@
+manasi@ubuntu:~/l3cube$ g++ -o svc svc.cpp
+manasi@ubuntu:~/l3cube$ ./svc
+To commit press 1, to see a version press 2, to see how many versions exist press 3, to exit press 4
+1
+USAGE: write svc test.txt to commit test.txt file
+svc test.txt
+File commit successfull
+To commit press 1, to see a version press 2, to see how many versions exist press 3, to exit press 4
+3
+VERSION 0
+To commit press 1, to see a version press 2, to see how many versions exist press 3, to exit press 4
+2
+USAGE write svc N where N is the version_number you wish to see
+svc 0
+VERSION 0
+hello
+To commit press 1, to see a version press 2, to see how many versions exist press 3, to exit press 4
+1
+USAGE: write svc test.txt to commit test.txt file
+svc test.txt
+To commit press 1, to see a version press 2, to see how many versions exist press 3, to exit press 4
+3
+VERSION 0
+VERSION 1
+To commit press 1, to see a version press 2, to see how many versions exist press 3, to exit press 4
+2
+USAGE write svc N where N is the version_number you wish to see
+svc 1
+VERSION 1
+hello
+world 
+india
+To commit press 1, to see a version press 2, to see how many versions exist press 3, to exit press 4
+4
+Exiting from simple version control
